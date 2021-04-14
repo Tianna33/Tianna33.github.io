@@ -4,7 +4,7 @@ SEOTitle: Tianna33 - 做时间的朋友吧
 header-img: img/post-bg-desk.jpg
 email: Tianna33@qq.com
 description: "学习, 阅读,生活。"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "不知何事萦怀抱？醒也无聊，醉也无聊，梦也何曾到谢桥？"
 url: "https://tianna33.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
@@ -19,8 +19,8 @@ sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used
 # SNS settings
 RSS: false
 # weibo_username:     Tianna33
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+# zhihu_username:     
+# github_username:    
 # facebook_username:  
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -65,8 +65,8 @@ gitalk:
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  owner: Tianna33    #github用户名
+  admin: Tianna33
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
