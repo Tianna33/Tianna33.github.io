@@ -3,8 +3,8 @@ title: Tianna个人学习网站
 SEOTitle: Tianna33 - 做时间的朋友吧
 header-img: img/post-bg-desk.jpg
 email: Tianna33@qq.com
-description: "学习, 阅读,生活。"
-keyword: "不知何事萦怀抱？醒也无聊，醉也无聊，梦也何曾到谢桥？"
+description: 学习, 阅读,生活。
+keyword: 不知何事萦怀抱？醒也无聊，醉也无聊，梦也何曾到谢桥？
 url: "https://tianna33.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
